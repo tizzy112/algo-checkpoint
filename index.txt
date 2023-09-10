@@ -1,0 +1,7 @@
+1,firstly the lenth of the sentence from the start of it to the end
+2,going into the sentence and count words in it 
+3,getting the numbers of vowels in the sentence by goingto each word and 
+counting the number of (a e i o u) in the whole sentence
+4,each charpter must be treated nicely
+5,the ending charpter will be the point
+6, then ill use 3 variables as counter
